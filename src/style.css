@@ -1,0 +1,59 @@
+h1 {
+  color: #5a6275;
+  font-family: Arial, Helvetica, sans-serif;
+}
+button:hover {
+  cursor: pointer;
+  box-shadow: 5px 5px 5px rgba (0, 0, 0, 0.5);
+  transition: all 200mm ease;
+}
+
+h4 {
+  color: #5a6275;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+}
+
+p {
+  color: #5a6275;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+}
+
+.weatherApp {
+  border: 1px solid #5a6275;
+  padding: 30px;
+  margin: 20px auto;
+  max-width: 600px;
+  border-radius: 10px;
+}
+.actualDegree {
+  color: #5a6275;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 50px;
+  right: 20px;
+  position: relative;
+  top: -100px;
+  left: 250px;
+}
+.enterCity {
+  color: #5a6275;
+  margin-bottom: 20px;
+  font-size: 30px;
+  border-radius: 5px;
+}
+.container {
+  color: #5a6275;
+}
+.searchButton {
+  color: white;
+  background-color: #007bff;
+  border-color: #007bff;
+  border-radius: 5px;
+  font-size: 30px;
+  margin-bottom: 20px;
+}
+.row {
+  font-size: 15px;
+  top: -100px;
+}
